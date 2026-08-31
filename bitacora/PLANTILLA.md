@@ -1,0 +1,4 @@
+## AAAA-MM-DD (dia N) — X0.1 4h / Y0.1 3h
+HECHO:
+ATASCO:
+MANANA:
